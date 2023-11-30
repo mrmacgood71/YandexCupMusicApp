@@ -1,0 +1,21 @@
+<resources>
+    <string name="socket_timeout_error">Timeout error</string>
+    <string name="unknown_error">Something went wrong</string>
+    <string name="response_is_null">Response is null</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="bad_request">Bad Request</string>
+    <string name="failed_to_connect_to_the_server">Failed to connect to the server</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
+    <string name="unknown_host">Unknown host</string>
+    <string name="ssl_handshake_failed">SSL handshake failed</string>
+    <string name="ssl_protocol_error">SSL protocol error</string>
+    <string name="error_400_bad_request">Error: 400 Bad Request</string>
+    <string name="error_401_unauthorized">Error: 401 Unauthorized</string>
+    <string name="error_403_forbidden">Error: 403 Forbidden</string>
+    <string name="error_404_not_found">Error: 404 Not Found</string>
+    <string name="error_number">Error %1$s</string>
+    <string name="error_500_internal_server_error">Error: 500 Internal Server Error</string>
+    <string name="error_501_not_implemented">Error: 501 Not Implemented</string>
+    <string name="error_502_bad_gateway">Error: 502 Bad Gateway</string>
+    <string name="error_302_redirect">Error: 302 Redirect</string>
+</resources>

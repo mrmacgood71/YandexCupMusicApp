@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="guitar">гитара</string>
+    <string name="drums">ударные</string>
+    <string name="horns">духовые</string>
+    <string name="layers">Слои</string>
+</resources>
